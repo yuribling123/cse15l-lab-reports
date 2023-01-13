@@ -19,6 +19,5 @@ Hello, world!
 My code
 `for (int i=0;i<3;i++){
 System.out.println("");
-# print blank space
 }`
 
