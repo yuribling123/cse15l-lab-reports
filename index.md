@@ -14,3 +14,9 @@ Hello, world!
 1) eat
 2) eat
 3) eat
+
+
+My code
+`for (int i=0;i<3;i++){
+System.out.println("");}`
+
