@@ -1,6 +1,3 @@
 Hello, world!
 ***
-# GOOD 
-*often*
-**APPLE** 
-## raws
+# GOOD  **APPLE**  *often* ## raws
