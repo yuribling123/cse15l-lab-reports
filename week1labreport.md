@@ -10,7 +10,8 @@
     ![Image]( https://i.imgur.com/A1QMjEL.jpg)
     
 * Download VScode and follow the instruction to install on your computer [Link](https://code.visualstudio.com)
----
+---  
+
 ## Remotely Connecting
 * Install Git  [Link](https://gitforwindows.org/)
 * Inside VScode, open the search bar `ctrl+shift+p`
@@ -49,7 +50,8 @@ Here is a list of commands you can use:
 
 
 **Example 3 :** **Commands on Local Computer**  
-Use bash Command `cp with.txt cat.txt ` to create a new text file named *cat.txt* with the same content as *with.txt* in the same folder on local computer  
+  
+  Use bash Command `cp with.txt cat.txt ` to create a new text file named *cat.txt* with the same content as *with.txt* in the same folder on local computer  
 
 ![Image](https://i.imgur.com/6u0LQAP.jpg)  
 
