@@ -7,7 +7,7 @@
      2) Edit *Path* under *Environment Variables* 
      3) Click on **New** and paste the path to bin folder under Java folder on your computer under the *Java Path Folder*
      
-    ![Image](https://i.imgur.com/eLxSK3r.jpeg) 
+    ![Image]( https://i.imgur.com/A1QMjEL.jpg)
     
 * Download VScode and follow its instruction to install on the computer [Link](https://code.visualstudio.com)
 ---
@@ -29,10 +29,22 @@ Here is a list of commands you can use:
 * ls -lat   #List the folders and files in given path sorted by dates
 * ls -a     #Lists all files including those begin with.
 * ls <directory> where <directory> is /home/linux/ieng6/cs15lwi23/cs15lwi23abc, where the abc is one of the other group members’ username  #List files and folders of given path 
-* cp /home/linux/ieng6/cs15lwi23/public/hello.txt ~/    #Copy Source file to destination file or Directory
-* cat /home/linux/ieng6/cs15lwi23/public/hello.txt         #Prints the content of the file for given path
-``` 
-* Command: `ls -lat` 
-        1)  **Note:** Prints out the list of sorted by dates in current path
-![Image](https://i.imgur.com/B92zjul.jpg) 
+* cp /home/linux/ieng6/cs15lwi23/public/hello.txt ~/     #Copy Source file to destination file or Directory
+* cat /home/linux/ieng6/cs15lwi23/public/hello.txt         #Prints the content of the file for given path 
+```  
+
+  
+ **Example 1:** Command `ls -lat` prints out the list of folders and files sorted by dates on **server computer**  
+ 
+
+        
+![Image](https://i.imgur.com/B92zjul.jpg)  
+
+
+ **Example 2:** Command `cat <path> ` prints out the content of the file in given path on server computer  
+ 
+ 
+
+![Image](https://i.imgur.com/MsZ0c8J.jpg)  
+
 
