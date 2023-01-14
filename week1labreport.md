@@ -1,15 +1,15 @@
 # Week 1 Lab Report
 ---
 ## Installing VScode 
-* Download Java [Link](https://download.oracle.com/java/17/latest/jdk-17_windows-x64_bin.exe)
-* Set JDK Path
+* Download and install Java on your computer [Link](https://download.oracle.com/java/17/latest/jdk-17_windows-x64_bin.exe)
+* Set JDK Path for your Java
      1) Go to System Properties---*Environment Vairables*
      2) Edit *Path* under *Environment Variables* 
      3) Click on **New** and paste the path to bin folder under Java folder on your computer under the *Java Path Folder*
      
     ![Image]( https://i.imgur.com/A1QMjEL.jpg)
     
-* Download VScode and follow its instruction to install on the computer [Link](https://code.visualstudio.com)
+* Download VScode and follow the instruction to install on your computer [Link](https://code.visualstudio.com)
 ---
 ## Remotely Connecting
 * Install Git  [Link](https://gitforwindows.org/)
