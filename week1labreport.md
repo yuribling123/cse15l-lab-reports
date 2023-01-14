@@ -28,9 +28,11 @@ Here is a list of commands you can use:
 * cd        #Change the current direcotory to given path  
 * ls -lat   #List the folders and files in given path sorted by dates
 * ls -a     #Lists all files including those begin with.
-* ls <directory> where <directory> is /home/linux/ieng6/cs15lwi23/cs15lwi23abc, where the abc is one of the other group members’ username  #List files and folders of given path
+* ls <directory> where <directory> is /home/linux/ieng6/cs15lwi23/cs15lwi23abc, where the abc is one of the other group members’ username  #List files and folders of given path 
 * cp /home/linux/ieng6/cs15lwi23/public/hello.txt ~/    #Copy Source file to destination file or Directory
-* cat /home/linux/ieng6/cs15lwi23/public/hello.txt         #Prints the content of the file for given path``` 
-
+* cat /home/linux/ieng6/cs15lwi23/public/hello.txt         #Prints the content of the file for given path
+``` 
+* Command: `ls -lat` 
+        1)  **Note:** Prints out the list of sorted by dates in current path
 ![Image](https://i.imgur.com/B92zjul.jpg) 
 
