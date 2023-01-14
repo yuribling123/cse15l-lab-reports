@@ -8,4 +8,4 @@
      
     ![Image](https://i.imgur.com/eLxSK3r.jpeg) 
     
-* Download VScode and follow its instruction to install on the computer [Link]([http://a.com](https://code.visualstudio.com)
+* Download VScode and follow its instruction to install on the computer [Link]((https://code.visualstudio.com)
