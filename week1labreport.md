@@ -57,9 +57,9 @@ Here is a list of commands you can use:
 ![Image](https://i.imgur.com/MsZ0c8J.jpg)  
 
 
-**Example 3 :** **Commands on Local Computer**  
+**Example 3 :** **Commands on Local Computer** <br> 
   
-  Use bash Command `cp with.txt cat.txt ` to create a new text file named *cat.txt* with the same content as *with.txt* in the same folder on local computer  
+ Use bash Command `cp with.txt cat.txt ` to create a new text file named *cat.txt* with the same content as *with.txt* in the same folder on local computer  
 
 ![Image](https://i.imgur.com/6u0LQAP.jpg)  
 
