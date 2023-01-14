@@ -1,4 +1,4 @@
-# week 1 Lab Report
+# Week 1 Lab Report
 ---
 ## Installing VScode 
 * Download Java [Link](https://download.oracle.com/java/17/latest/jdk-17_windows-x64_bin.exe)
@@ -8,4 +8,6 @@
      
     ![Image](https://i.imgur.com/eLxSK3r.jpeg) 
     
-* Download VScode and follow its instruction to install on the computer [Link]((https://code.visualstudio.com)
+* Download VScode and follow its instruction to install on the computer [Link](https://code.visualstudio.com)
+---
+## Remotely Connecting
