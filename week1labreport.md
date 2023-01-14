@@ -1,6 +1,8 @@
 # Week 1 Lab Report
 ---
+
 ## Installing VScode 
+
 * Download and install Java on your computer [Link](https://download.oracle.com/java/17/latest/jdk-17_windows-x64_bin.exe)
 * Set JDK Path for your Java
      1) Go to System Properties ---> *Environment Vairables*
@@ -10,9 +12,11 @@
     ![Image]( https://i.imgur.com/A1QMjEL.jpg)
     
 * Download VScode and follow the instruction to install on your computer [Link](https://code.visualstudio.com)
----  
+
+  ---  
 
 ## Remotely Connecting
+
 * Install Git  [Link](https://gitforwindows.org/)
 * Inside VScode, open the search bar `ctrl+shift+p`
      1) Type **Select Default Terminal Profile** and choose **Git Bash**
@@ -22,7 +26,9 @@
      4) Type in password for your account to log in as shown below
      ![Image]( https://i.imgur.com/ktP3PGZ.jpg) 
 ---
+
 ## Trying Commands
+
 Here is a list of commands you can use: 
 ```
 * cd ~      #Change the current direcotory to given path with short cut  
