@@ -13,7 +13,8 @@
     
 * Download VScode and follow the instruction to install on your computer [Link](https://code.visualstudio.com)
 
-  ---  
+_________________
+
 
 ## Remotely Connecting
 
@@ -25,7 +26,8 @@
      3) Put in command ```ssh cs15lwi23aha@ieng6.ucsd.edu```
      4) Type in password for your account to log in as shown below
      ![Image]( https://i.imgur.com/ktP3PGZ.jpg) 
----
+     
+_________________
 
 ## Trying Commands
 
