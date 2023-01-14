@@ -7,7 +7,7 @@
 - Set JDK Path for your Java
     - Go to System Properties ---> *Environment Vairables*
      - Edit *Path* under *Environment Variables* 
-     - Click on **New** and paste the path to bin folder under Java folder on your computer under the *Java Path Folder*
+     - Click on **New** and paste the path to bin folder in Java folder on your computer under the *Java Path Folder*
      
     ![Image]( https://i.imgur.com/A1QMjEL.jpg)
     
