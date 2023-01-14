@@ -34,17 +34,25 @@ Here is a list of commands you can use:
 ```  
 
   
- **Example 1:** Command `ls -lat` prints out the list of folders and files sorted by dates on **server computer**  
+ **Example 1 :** Command `ls -lat` prints out the list of folders and files sorted by dates on **server computer**  
  
 
         
 ![Image](https://i.imgur.com/B92zjul.jpg)  
 
 
- **Example 2:** Command `cat <path> ` prints out the content of the file in given path on server computer  
+ **Example 2 :** Command `cat <path> ` prints out the content of the file in given path on server computer  
  
  
 
 ![Image](https://i.imgur.com/MsZ0c8J.jpg)  
+
+
+**Example 3 :** **Commands on Local Computer**  using bash
+Command `cp with.txt cat.txt ` creats a new text file named *cat.txt* with the same content as *with.txt* in the same folder on local computer  
+
+![Image](https://i.imgur.com/6u0LQAP.jpg)  
+
+
 
 
