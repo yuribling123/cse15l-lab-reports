@@ -9,7 +9,7 @@
      - Edit *Path* under *Environment Variables* 
      - Click on **New** and paste the path to bin folder in Java folder on your computer under the *Java Path Folder*
      
-    ![Image]( https://i.imgur.com/A1QMjEL.jpg)
+    ![Image]( https://i.ibb.co/LJRCgQ6/Screenshot-2023-01-25-181518.jpg)
     
 * Download VScode and follow the instruction to install on your computer [Link](https://code.visualstudio.com)
 * Install Git  [Link](https://gitforwindows.org/)
