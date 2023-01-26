@@ -12,18 +12,19 @@
     ![Image]( https://i.imgur.com/A1QMjEL.jpg)
     
 * Download VScode and follow the instruction to install on your computer [Link](https://code.visualstudio.com)
+* Install Git  [Link](https://gitforwindows.org/)
+    - Inside VScode, open the search bar `ctrl+shift+p`
+    - Type **Select Default Terminal Profile** and choose **Git Bash**
 
 _________________
 
 
 ## Remotely Connecting
 
-- Install Git  [Link](https://gitforwindows.org/)
-- Inside VScode, open the search bar `ctrl+shift+p`
-     - Type **Select Default Terminal Profile** and choose **Git Bash**
-     - Open a new **Git Bash Terminal**
+
+* Open a new **Git Bash Terminal**
      ![Image](https://i.imgur.com/ykedbfE.jpg) 
-     - Put in command ```ssh cs15lwi23aha@ieng6.ucsd.edu```
+* Put in command ```ssh cs15lwi23aha@ieng6.ucsd.edu```
      - Type in password for your account to log in as shown below
      ![Image]( https://i.imgur.com/ktP3PGZ.jpg) 
      
