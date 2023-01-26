@@ -17,8 +17,8 @@
     - Type **Select Default Terminal Profile** and choose **Git Bash**
 
 _________________
-
-
+   <br />   
+   
 ## Remotely Connecting
 
 
@@ -29,7 +29,9 @@ _________________
      ![Image]( https://i.imgur.com/ktP3PGZ.jpg) 
      
 _________________
-
+  <br />   
+   
+   
 ## Trying Commands
 
 Here is a list of commands you can use: 
