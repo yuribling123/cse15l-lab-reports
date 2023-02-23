@@ -3,7 +3,7 @@
 ### The command I choose is 	**grep**  
 - **Option One**:  `grep -r`  
 > Description: --**recursive**
-               Display all files and sub-directories under the given directory
+               Display all files and sub-directories under the given directory  <br> 
               [source](https://linuxcommand.org/lc3_man_pages/grep1.html)   
               
              
@@ -48,7 +48,7 @@
  - **Option Two**:  `grep --color[=WHEN]`   
  
 > Description  **--color**                  
-              Colored the matched string in the file.
+              Colored the matched string in the file.<br> 
               [source](https://linuxcommand.org/lc3_man_pages/grep1.html) 
              
               
@@ -71,7 +71,7 @@
  - **Option Three**:  `grep -c` 
  
 > Description   **--count**
-               Give the number of matching lines in a file
+               Give the number of matching lines in a file <br> 
               [source](https://linuxcommand.org/lc3_man_pages/grep1.html)   
           
               
@@ -91,7 +91,7 @@
 
 --- 
   - **Option Four**:  `grep -i`     
-  > Description --ignore-case
+  > Description --ignore-case <br> 
               Grab the matching sentences that contain the string ignoring cases.
                  [source](https://linuxcommand.org/lc3_man_pages/grep1.html)  
                 
