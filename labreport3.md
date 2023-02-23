@@ -70,10 +70,9 @@
  - **Option Three**:  `grep -c` 
  
 > Description   **--count**
-              Suppress normal output; instead print a count  of  matching
-              lines  for  each  input  file.  With the -v, --invert-match
-              option (see below), count non-matching lines.
+               Give the number of matching lines in a file
               [source](https://linuxcommand.org/lc3_man_pages/grep1.html)   
+          
               
  **Example 1**  
  ```  
@@ -92,9 +91,9 @@
 --- 
   - **Option Four**:  `grep -i` 
 > Description --ignore-case
-              Ignore  case  distinctions,  so that characters that differ
-              only in case match each other.
+              Grab the matching sentences that contain the string ignoring cases.
                  [source](https://linuxcommand.org/lc3_man_pages/grep1.html)  
+                
                               
   **Example 1**   
  ```
