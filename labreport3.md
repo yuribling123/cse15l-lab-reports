@@ -3,11 +3,10 @@
 ### The command I choose is 	**grep**  
 - **Option One**:  `grep -r`  
 > Description: --**recursive**
-              Read all files under each directory, recursively, following
-              symbolic  links only if they are on the command line.  Note
-              that if no file operand is given, grep searches the working
-              directory. 
+               Display all files and sub-directories under the given directory
               [source](https://linuxcommand.org/lc3_man_pages/grep1.html)   
+              
+             
               
  **Example 1**  
 
@@ -35,42 +34,37 @@
 ./travel_guides/berlitz1/HistoryHawaii.txt:        governor was Dole. Queen Liliuokalani lived out her life near Honolulu,
 ./travel_guides/berlitz1/WhatToHawaii.txt:        Midway. Lying some 1,100 miles northwest of Honolulu, Midway
  ```
-**Explaination**: The command goes recursively through the directories and files under *writtern_2* and outputs the files that contains the string "Honolulu" followed with the sentence that contains this word. 
+**Explaination** : The command goes recursively through the directories and files under *current directory* and outputs the files that contain the string "Honolulu".
 
  **Example 2**
   ```
   $ grep -r "fdiujk" ./travel_guides
    ```
-  **Explaination**: The command goes recursively through the directories and files under *travel_guides* to find files contains "fdiujk". Since no such file exists, the output is empty. 
+  **Explanation** : The command goes recursively through the directories and files under *travel_guides* to find files contain "fdiujk". Since no such file exists, the output is empty. 
  
  
  ---
  
  - **Option Two**:  `grep --color[=WHEN]` 
 > Description  **--color**              
-               Surround the matched (non-empty) strings,  matching  lines,
-              context  lines, file names, line numbers, byte offsets, and
-              separators (for fields and groups of  context  lines)  with
-              escape  sequences to display them in color on the terminal.
-              The  colors  are  defined  by  the   environment   variable
-              GREP_COLORS.     The    deprecated   environment   variable
-              GREP_COLOR is still supported, but  its  setting  does  not
-              have priority.  WHEN is never, always, or auto.
+               Colored the matched string in the file.
               [source](https://linuxcommand.org/lc3_man_pages/grep1.html) 
+             
+              
                 
                 
  **Example 1**  
 
 ![alt text](https://i.ibb.co/tZB1b83/Screenshot-2023-02-12-182711.jpg)
 
-**Explaination** :the command colors the matching string in  the file as output.
+**Explaination** : the command colors the matching string in  the file as output.
  
  
  **Example 2**
   
   ![alt text](https://i.ibb.co/1RMMT6N/Screenshot-2023-02-12-183955.jpg)
 
-  **Explaination** :the command colors the matching number in  the file as output.
+  **Explaination** : the command colors the matching number in  the file as output.
  
  --- 
  - **Option Three**:  `grep -c` 
@@ -111,7 +105,7 @@
         indicate high-season rates in Hong Kong dollars, based on double
  ```
         
-**Explaination**:The command catch the paragraph in *HandRHongKong.txt* that contains the string "hong kong" without being case sensitive and returns 
+**Explaination** : The command catch the paragraph in *HandRHongKong.txt* that contains the string "hong kong" without being case sensitive and returns 
 that paragraph as output.
 
 
@@ -120,4 +114,4 @@ that paragraph as output.
  ```   
  $ grep -i "hongkong" HandRHongKong.txt
  ```
- **Explaination**: The command catch the paragraph in *HandRHongKong.txt* that contains the string "hong kong" without being case sensitive but it's still space-sensitive. Since no such match is found, the output is empty. 
+ **Explaination** : The command catch the paragraph in *HandRHongKong.txt* that contains the string "hong kong" without being case sensitive but it's still space-sensitive. Since no such match is found, the output is empty. 
