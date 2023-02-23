@@ -57,14 +57,14 @@
 
 ![alt text](https://i.ibb.co/tZB1b83/Screenshot-2023-02-12-182711.jpg)
 
-**Explaination** : the command colors the matching string in  the file as output.
+**Explaination** : The command colors the matching string in  the file as output.
  
  
  **Example 2**
   
   ![alt text](https://i.ibb.co/1RMMT6N/Screenshot-2023-02-12-183955.jpg)
 
-  **Explaination** : the command colors the matching number in  the file as output.
+  **Explaination** : The command colors the matching number in  the file as output.
  
  --- 
  - **Option Three**:  `grep -c` 
