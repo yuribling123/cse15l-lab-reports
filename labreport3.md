@@ -2,8 +2,8 @@
 ---
 ### The command I choose is 	**grep**  
 - **Option One**:  `grep -r`  
-> Description: --**recursive**
-               Display all files and sub-directories under the given directory  <br> 
+> Description: --**recursive** <br />
+               Display all files and sub-directories under the given directory 
               [source](https://linuxcommand.org/lc3_man_pages/grep1.html)   
               
              
@@ -47,8 +47,8 @@
  
  - **Option Two**:  `grep --color[=WHEN]`   
  
-> Description  **--color**                  
-              Colored the matched string in the file.<br> 
+> Description  **--color**<br />                  
+              Colored the matched string in the file. 
               [source](https://linuxcommand.org/lc3_man_pages/grep1.html) 
              
               
@@ -70,8 +70,8 @@
  --- 
  - **Option Three**:  `grep -c` 
  
-> Description   **--count**
-               Give the number of matching lines in a file <br> 
+> Description   **--count** <br />
+               Give the number of matching lines in a file 
               [source](https://linuxcommand.org/lc3_man_pages/grep1.html)   
           
               
