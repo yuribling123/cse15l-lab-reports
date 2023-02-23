@@ -47,8 +47,7 @@
  
  - **Option Two**:  `grep --color[=WHEN]`   
  
-> Description  **--color**<br />                  
-              Colored the matched string in the file. 
+> Description  **--color** <br />  Colored the matched string in the file. 
               [source](https://linuxcommand.org/lc3_man_pages/grep1.html) 
              
               
