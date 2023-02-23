@@ -45,9 +45,10 @@
  
  ---
  
- - **Option Two**:  `grep --color[=WHEN]` 
-> Description  **--color**              
-               Colored the matched string in the file.
+ - **Option Two**:  `grep --color[=WHEN]`   
+ 
+> Description  **--color**                  
+              Colored the matched string in the file.
               [source](https://linuxcommand.org/lc3_man_pages/grep1.html) 
              
               
@@ -89,8 +90,8 @@
 **Explaination** : The command counts the number of lines in *HandRHawaii.txt* that contains the word "maniac" which is zero.
 
 --- 
-  - **Option Four**:  `grep -i` 
-> Description --ignore-case
+  - **Option Four**:  `grep -i`     
+  > Description --ignore-case
               Grab the matching sentences that contain the string ignoring cases.
                  [source](https://linuxcommand.org/lc3_man_pages/grep1.html)  
                 
