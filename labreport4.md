@@ -6,7 +6,7 @@
    <img width="898" alt="image" src="https://user-images.githubusercontent.com/122572429/221313582-c7c17607-8795-45b9-ab2c-89d6ceae916d.png"> 
 ---   
 * **STEP 2: Setup Fork the repository** 
-  * On the Git Hub page for this repository, click "Fork" to fork your own copy of repository.
+  * On the Git Hub page for this repository, click "Fork" and "Create Fork" to fork your own copy of repository.
    <img width="158" alt="image" src="https://user-images.githubusercontent.com/122572429/221315762-2ca50220-3f8c-4c9a-bca1-77f1e49c7688.png">
 ---
 * **STEP 3: The real deal Start the timer!**
