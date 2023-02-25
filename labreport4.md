@@ -21,8 +21,10 @@
 --- 
 
 * **STEP 5: Clone your fork of the repository from your Github account** 
-  * Type in this command  ` git clone git@github.com:yuribling123/lab7.git`
----
+  * Type in this command  ` git clone git@github.com:yuribling123/lab7.git` 
+ 
+--- 
+
 * **STEP 6: Run the tests, demonstrating that they fail**
   * `ls` to list current fliles and directoies
   * ` cd ./lab7/` to change directory
