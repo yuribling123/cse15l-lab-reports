@@ -10,14 +10,18 @@
     <img width="158" alt="image" src="https://user-images.githubusercontent.com/122572429/221315762-2ca50220-3f8c-4c9a-bca1-77f1e49c7688.png">
 ---
 * **STEP 3: The real deal Start the timer!**
-  * Start the timer on your IPhone.
----
+  * Start the timer on your IPhone. 
+  
+--- 
+
 * **STEP 4: Log into ieng6**
   * Press `<Ctrl>`+`<R>` to search command history. Enter "ssh" to find the right command. Press `<Enter>` to log in.
-    <img width="308" alt="image" src="https://user-images.githubusercontent.com/122572429/221320833-d6477158-546a-408f-88c0-c4f3e77cf0a1.png">
----
+    <img width="308" alt="image" src="https://user-images.githubusercontent.com/122572429/221320833-d6477158-546a-408f-88c0-c4f3e77cf0a1.png">  
+ 
+--- 
+
 * **STEP 5: Clone your fork of the repository from your Github account** 
-  * Type in this command` git clone git@github.com:yuribling123/lab7.git`
+  * Type in this command  ` git clone git@github.com:yuribling123/lab7.git`
 ---
 * **STEP 6: Run the tests, demonstrating that they fail**
   * `ls` to list current fliles and directoies
