@@ -3,12 +3,16 @@
 * **STEP 1: Setup Delete any existing forks of the repository you have on your account**  
   * We use this command to delete the whole directoy: `rm -r /home/linux/ieng6/cs15lwi23/cs15lwi23aha/lab7`
   * The console will ask for permission to delete files, enter Y for all of them.
-    <img width="898" alt="image" src="https://user-images.githubusercontent.com/122572429/221313582-c7c17607-8795-45b9-ab2c-89d6ceae916d.png"> 
----   
+    <img width="898" alt="image" src="https://user-images.githubusercontent.com/122572429/221313582-c7c17607-8795-45b9-ab2c-89d6ceae916d.png">  
+    
+---     
+
 * **STEP 2: Setup Fork the repository** 
   * On the Git Hub page for this repository, click "Fork" and "Create Fork" to fork your own copy of repository. 
-    <img width="158" alt="image" src="https://user-images.githubusercontent.com/122572429/221315762-2ca50220-3f8c-4c9a-bca1-77f1e49c7688.png">
----
+    <img width="158" alt="image" src="https://user-images.githubusercontent.com/122572429/221315762-2ca50220-3f8c-4c9a-bca1-77f1e49c7688.png"> 
+    
+--- 
+
 * **STEP 3: The real deal Start the timer!**
   * Start the timer on your IPhone. 
   
