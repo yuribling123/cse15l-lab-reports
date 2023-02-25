@@ -31,7 +31,7 @@
 
 * **STEP 6: Run the tests, demonstrating that they fail**
   * `ls` to list current fliles and directoies
-  * ` cd ./lab7/` to change directory
+  * `cd ./lab7/` to change directory
   *  Press `<Ctrl>`+`<R>` and enter "javac" to pull up the compile command in history and then press `<Enter>` to run the command 
     <img width="531" alt="image" src="https://user-images.githubusercontent.com/122572429/221322065-6ec548e8-31f8-40b7-9d18-b186e9057fbe.png">  
     
