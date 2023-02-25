@@ -52,8 +52,10 @@
 * **STEP 8: Run the tests, demonstrating that they now succeed**
   * Recompile the file: `javac ListExamples.java` . when typing "List", press `<Tab>` to get to "ListExamples"
   * Rerun the Junit Test using the shortcut: `<Ctrl>` + `<R>` and search for "javac "
-    <img width="773" alt="image" src="https://user-images.githubusercontent.com/122572429/221324922-d6934cf0-1352-429a-bbac-c73e3e60ba33.png">
----
+    <img width="773" alt="image" src="https://user-images.githubusercontent.com/122572429/221324922-d6934cf0-1352-429a-bbac-c73e3e60ba33.png"> 
+    
+--- 
+
 * **STEP 9: Commit and push the resulting change to your Github account (you can pick any commit message!)**
   * Add the edited file into list: `git add ListExamples.java`; use the shortcut `<Tab>` when typing filename
   * Commit the changes: `git commit -m "Updated" `
