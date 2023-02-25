@@ -6,8 +6,8 @@
     <img width="898" alt="image" src="https://user-images.githubusercontent.com/122572429/221313582-c7c17607-8795-45b9-ab2c-89d6ceae916d.png"> 
 ---   
 * **STEP 2: Setup Fork the repository** 
-  * On the Git Hub page for this repository, click "Fork" and "Create Fork" to fork your own copy of repository.
-   <img width="158" alt="image" src="https://user-images.githubusercontent.com/122572429/221315762-2ca50220-3f8c-4c9a-bca1-77f1e49c7688.png">
+  * On the Git Hub page for this repository, click "Fork" and "Create Fork" to fork your own copy of repository. 
+    <img width="158" alt="image" src="https://user-images.githubusercontent.com/122572429/221315762-2ca50220-3f8c-4c9a-bca1-77f1e49c7688.png">
 ---
 * **STEP 3: The real deal Start the timer!**
   * Start the timer on your IPhone.
@@ -16,7 +16,7 @@
   * Press `<Ctrl>`+`<R>` to search command history. Enter "ssh" to find the right command. Press `<Enter>` to log in.
     <img width="308" alt="image" src="https://user-images.githubusercontent.com/122572429/221320833-d6477158-546a-408f-88c0-c4f3e77cf0a1.png">
 ---
-* **STEP 5: Clone your fork of the repository from your Github account**
+* **STEP 5: Clone your fork of the repository from your Github account** 
   * Type in this command` git clone git@github.com:yuribling123/lab7.git`
 ---
 * **STEP 6: Run the tests, demonstrating that they fail**
