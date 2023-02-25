@@ -50,4 +50,9 @@
   * Push to the origin depository : `git push`  
   
     <img width="390" alt="image" src="https://user-images.githubusercontent.com/122572429/221325572-9f0d8cb3-aab8-43bd-95d0-9d60ce58b7e2.png">
+---
+**Done !** 
+
+<img width="541" alt="image" src="https://user-images.githubusercontent.com/122572429/221325779-e0949ea4-9d6b-45a8-86f4-dd1b82a3f5fc.png">
+
 
